@@ -1,0 +1,30 @@
+.navbar-brand, .navbar-nav{
+    margin-left:auto;
+    margin-right:100px;
+
+}
+
+.section1 {
+    height:400px;
+    background-color: #1F2937;
+    display:flex;   
+    align-items:center;
+
+}
+
+
+.section1Text{
+    color:white;
+    font-family:"Times New Roman", Times, serif;
+    width:50%;
+    margin-left:100px;
+    margin-right:50px;
+
+}
+
+.section1Picture{
+    color:white;
+    font-family:"Times New Roman", Times, serif;
+    width:50%;
+    margin-right:100px;
+}
