@@ -1,8 +1,14 @@
 .navbar-nav {
     margin-left: auto;
     margin-right: 100px;
+    color: #F9FAF8;
+    font-size:20px;
 }
 
+.navbar-brand {
+    font-size: 24px;
+    color: #F9FAF8;
+}
 
 .navbar-brand,
 .headline,
@@ -13,11 +19,6 @@
 #textUnderHeadline {
     font-size: 18px;
     color: #E5E7EB;
-}
-
-.navbar-brand {
-    font-size: 24px;
-    color: #F9FAF8;
 }
 
 .headline {
@@ -139,17 +140,16 @@ h2 {
     height: 150px;
     padding: 10px;
     background-color: #3882F6;
-    font-size: 20px;
+    font-size: 23px;
     color: #E5E7EB;
-    display:flex;
-    flex-direction:row;
-    align-items:center;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
 }
 
-.texts{
-    text-align:center;
-    width:60%
-
+.texts {
+    text-align: center;
+    width: 60%
 }
 
 .signUpCall {
@@ -157,11 +157,23 @@ h2 {
 }
 
 
-
-.buttonDiv {
-    background-color:green;
+.secondButton {
+    background-color: #3882F6;
+    border: 2px solid #E5E7EB;
+    color: #E5E7EB;
+    border-radius: 8px;
+    width: 200px;
+    height: 50px;
 }
 
-.secondButton{
 
+.footer {
+    background-color: #1F2937;
+    height: 100px;
+    width: auto;
+    color: #E5E7EB;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
