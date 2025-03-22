@@ -1,10 +1,8 @@
 # LandingPage
 
-This landing page was created as part of the odin project with HTML and CSS in order to enhance my frontend skills.
+This landing page was created to practice some HTML and CSS in order to enhance my frontend skills.
 
 Live Preview: https://luann00.github.io/LandingPage/
 
-To-Do for later:
-<ul>
-  <li>Responsive Design</li>
-</ul>
+## To-Do for later
+- [ ] Responsive Design
